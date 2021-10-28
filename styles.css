@@ -1,0 +1,27 @@
+body{
+    background-image: url(/bootcamp_clase4_ex2/img/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.card2{
+    position:absolute;
+    border: 1px solid black;
+    width: 450px;
+    height: 600px;
+    border-radius: 3%;
+    overflow: hidden;
+    left: 8%;
+    top: 5%;
+    background: rgb(243, 243, 242);
+}
+
+.order{
+    text-align: center;
+    padding: 15px;
+}
+
+.infoPar{
+
+}
